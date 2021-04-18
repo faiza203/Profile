@@ -20,7 +20,7 @@ function App() {
     <Teams />
     <Contacts />
     <footer>
-        <span><span class="far fa-copyright"></span> { date.getFullYear()} All rights reserved.</span>
+        <span><span className="far fa-copyright"></span> { date.getFullYear()} All rights reserved.</span>
     </footer>
         </div>
   );

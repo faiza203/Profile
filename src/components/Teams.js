@@ -1,28 +1,28 @@
 
 function Teams() {
     return (
-        <section class="teams" id="teams">
-        <div class="max-width">
-            <h2 class="title">My teams</h2>
-            <div class="carousel owl-carousel">
-                <div class="card">
-                    <div class="box">
+        <section className="teams" id="teams">
+        <div className="max-width">
+            <h2 className="title">My teams</h2>
+            <div className="carousel owl-carousel">
+                <div className="card">
+                    <div className="box">
                         <img src="images/profile-1.jpeg" alt="" />
-                        <div class="text">Faiza Fiaz</div>
+                        <div className="text">Faiza Fiaz</div>
                         <p>Full Stack Developer , Mobile Apps Developer , Cloud Computing Enginner</p>
                     </div>
                 </div>
-                <div class="card">
-                    <div class="box">
+                <div className="card">
+                    <div className="box">
                         <img src="images/profile-2.jpeg" alt="" />
-                        <div class="text">Amir Ali</div>
+                        <div className="text">Amir Ali</div>
                         <p>Full Stack Developer ,  Cloud Computing , Artifical Intellignet , BlockChain .</p>
                     </div>
                 </div>
-                <div class="card">
-                    <div class="box">
+                <div className="card">
+                    <div className="box">
                         <img src="images/profile-3.png" alt="" />
-                        <div class="text">Talha Sadiq</div>
+                        <div className="text">Talha Sadiq</div>
                         <p>Full Stack Developer , Mobile Apps Developer , Cloud Computing Enginner.</p>
                     </div>
                 </div>
