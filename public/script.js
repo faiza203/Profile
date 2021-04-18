@@ -4,10 +4,11 @@ $(document).ready(function(){
         // sticky navbar on scroll script
         if(this.scrollY > 20){
             $('.navbar').addClass("sticky");
+            $('.fa-bars').addClass("White");
         }else{
             $('.navbar').removeClass("sticky");
-        }
-        
+            $('.fa-bars').removeClass("White");
+        }        
         // scroll-up button show/hide script
         if(this.scrollY > 500){
             $('.scroll-up-btn').addClass("show");

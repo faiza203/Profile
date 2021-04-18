@@ -10,6 +10,10 @@ html{
     scroll-behavior: smooth;
 }
 
+body{
+    overflow-x: hidden ;
+}
+
 ::-webkit-scrollbar {
     width: 10px;
 }
@@ -155,6 +159,10 @@ section .title::after{
     pointer-events: none;
     transition: all 0.3s ease;
 }
+.fa-bars.White{
+    color: white;
+}
+
 .scroll-up-btn.show{
     bottom: 30px;
     opacity: 1;
