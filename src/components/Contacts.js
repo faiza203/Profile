@@ -57,7 +57,7 @@ function Contacts() {
                             <textarea className="message" cols="30" rows="10" placeholder="Message.."></textarea>
                         </div>
                         <div className="button-area">
-                        <a href="mailto:fiazfaiza981@gmail.com" target="_blank">Send Message</a>
+                        <a href="mailto:fiazfaiza981@gmail.com?subject=HI Faiza I am" target="_blank">Send Message</a>
                         </div>
                     </form>
                 </div>
