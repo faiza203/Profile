@@ -25,7 +25,7 @@ function Contacts() {
               </div>
               <div className="row">
                 <i className="fas fa-envelope"></i>
-                {window.innerWidth <= 300 ? (
+                {window.innerWidth <= 350 ? (
                   <div className="info">
                     <div className="head">Gmail</div>
                     <div className="sub-title">fiazfaiza981</div>
