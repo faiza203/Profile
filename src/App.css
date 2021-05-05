@@ -589,7 +589,8 @@ footer span a:hover {
   .menu-btn i.active:before {
     content: "\f00d";
   }
-  .navbar .menu {
+  .
+  .menu {
     position: fixed;
     height: 100vh;
     width: 100%;
@@ -725,5 +726,15 @@ footer span a:hover {
   }
   .contact .contact-content .row {
     height: 80px;
+  }
+  .about .about-content .left img{
+    height: 100%;
+    width : 100%;
+    min-width: 90vw;
+  }
+  .navbar .max-width{
+  padding : 5px;
+    width: 100%;
+    max-width : 100vw;
   }
 }
